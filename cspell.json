@@ -1,0 +1,19 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "Cand",
+    "commitlint",
+    "pnpm",
+    "tanstack",
+    "Todos",
+    "zustand"
+  ],
+  "ignorePaths": [
+    "node_modules/",
+    "build/",
+    ".husky",
+    "pnpm-lock.yaml",
+    "package.json"
+  ]
+}
